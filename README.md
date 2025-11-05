@@ -1,6 +1,6 @@
-AnaKarenToscanoDiaz_EvidenciaPySparkTableau.twb --> Archivo de Tableau
+**AnaKarenToscanoDiaz_EvidenciaPySparkTableau.twb** --> Archivo de Tableau
 
-AnaKarenToscanoDiaz_EvidenciaPySparkTableau_Notebook.ipnby --> Notebook con el modelo
+**AnaKarenToscanoDiaz_EvidenciaPySparkTableau_Notebook.ipnby** --> Notebook con el modelo
 
 He estado presentando un problema al intentar abrir el archivo .twb desde Tableau...
 
@@ -8,5 +8,5 @@ He estado presentando un problema al intentar abrir el archivo .twb desde Tablea
 
 ...por lo que iguamente adjunto un video de mi dashboard para asegurar su visualización. 
 
-Link al video: https://drive.google.com/file/d/1bY0UpJGH7OJTUpJdfRJBbmWMCDhjcRMg/view?usp=sharing 
+**Link al video** --> https://drive.google.com/file/d/1bY0UpJGH7OJTUpJdfRJBbmWMCDhjcRMg/view?usp=sharing 
 
