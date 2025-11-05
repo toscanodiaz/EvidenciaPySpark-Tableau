@@ -1,8 +1,8 @@
 # Índice
 
-**Archivo de Tableau** --> AnaKarenToscanoDiaz_EvidenciaPySparkTableau.twb
-
 **Notebook con el modelo** --> AnaKarenToscanoDiaz_EvidenciaPySparkTableau_Notebook.ipnby
+
+**Dashboard Tableau** --> AnaKarenToscanoDiaz_EvidenciaPySparkTableau.twb
 
 **Link a video de mi dashboard de Tableau** --> https://drive.google.com/file/d/1bY0UpJGH7OJTUpJdfRJBbmWMCDhjcRMg/view?usp=sharing 
 
