@@ -1,10 +1,10 @@
 # Índice
 
-**Archivo de Tableau**...............................AnaKarenToscanoDiaz_EvidenciaPySparkTableau.twb
+**Archivo de Tableau** --> AnaKarenToscanoDiaz_EvidenciaPySparkTableau.twb
 
-**Notebook con el modelo**...........................AnaKarenToscanoDiaz_EvidenciaPySparkTableau_Notebook.ipnby
+**Notebook con el modelo** --> AnaKarenToscanoDiaz_EvidenciaPySparkTableau_Notebook.ipnby
 
-**Link a video de mi dashboard de Tableau**..........https://drive.google.com/file/d/1bY0UpJGH7OJTUpJdfRJBbmWMCDhjcRMg/view?usp=sharing 
+**Link a video de mi dashboard de Tableau** --> https://drive.google.com/file/d/1bY0UpJGH7OJTUpJdfRJBbmWMCDhjcRMg/view?usp=sharing 
 
 He estado presentando un problema al intentar abrir el archivo .twb desde Tableau...
 
